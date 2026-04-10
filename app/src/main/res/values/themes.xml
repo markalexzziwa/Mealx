@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.Mealx" parent="Theme.MaterialComponents.Light" />
+</resources>
